@@ -1,6 +1,12 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+For the Student practice task u have to download the "WAVE Evaluation Tool" Extension for your browser.
+https://chromewebstore.google.com/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh
+
+https://addons.mozilla.org/en-US/firefox/addon/wave-accessibility-tool/
+
+https://microsoftedge.microsoft.com/addons/detail/wave-evaluation-tool/khapceneeednkiopkkbgkibbdoajpkoj
 
 First, run the development server:
 
